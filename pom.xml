@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Chatroom-BackEnd-Docker</finalName>
 	</build>
 
 </project>
